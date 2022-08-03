@@ -1,6 +1,6 @@
 package main
 
-import "go-campaign/pkg/service"
+import "github.com/kimxuanhong/go-campaign-no-01/pkg/service"
 
 func main() {
 	service.HelloWord()
